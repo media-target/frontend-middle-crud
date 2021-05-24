@@ -1,0 +1,176 @@
+[
+  {
+    "1": {
+      "title": "Accesstyle",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "28": {
+      "title": "Xiaomi",
+      "scope": ["headphone", "smartphone", "action-camera"]
+    }
+  },
+  {
+    "3": {
+      "title": "Apple",
+      "scope": ["headphone", "smartphone"]
+    }
+  },
+  {
+    "4": {
+      "title": "Beats",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "5": {
+      "title": "BlackView",
+      "scope": ["smartphone"]
+    }
+  },
+  {
+    "7": {
+      "title": "DJI",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "2": {
+      "title": "AfterShokz",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "8": {
+      "title": "Eken",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "9": {
+      "title": "GoPro",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "10": {
+      "title": "Insta360",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "11": {
+      "title": "Honor",
+      "scope": ["smartphone"]
+    }
+  },
+  {
+    "12": {
+      "title": "Huawei",
+      "scope": ["headphone", "smartphone"]
+    }
+  },
+  {
+    "13": {
+      "title": "JBL",
+      "scope": ["headphone" ]
+    }
+  },
+  {
+    "14": {
+      "title": "Marshall",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "15": {
+      "title": "Nokia",
+      "scope": ["smartphone"]
+    }
+  },
+  {
+    "16": {
+      "title": "OpnePlus",
+      "scope": ["smartphone"]
+    }
+  },
+  {
+    "17": {
+      "title": "OPPO",
+      "scope": ["smartphone"]
+    }
+  },
+  {
+    "18": {
+      "title": "realme",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "19": {
+      "title": "Ricoh",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "20": {
+      "title": "QCY",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "21": {
+      "title": "Samsung",
+      "scope": ["headphone", "smartphone"]
+    }
+  },
+  {
+    "22": {
+      "title": "Sennheiser",
+      "scope": ["headphone"]
+    }
+  },
+  {
+    "23": {
+      "title": "Sony",
+      "scope": ["headphone", "smartphone", "action-camera"]
+    }
+  },
+  {
+    "24": {
+      "title": "Sjcam",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "25": {
+      "title": "SportCam",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "26": {
+      "title": "Vtech",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "27": {
+      "title": "X-try",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "6": {
+      "title": "Digma",
+      "scope": ["action-camera"]
+    }
+  },
+  {
+    "29": {
+      "title": "vivo",
+      "scope": ["smartphone"]
+    }
+  }
+]

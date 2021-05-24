@@ -1,0 +1,20 @@
+[
+  {
+    "1": {
+      "email": "byer@email.com",
+      "password": "byer"
+    }
+  },
+  {
+    "2": {
+      "email": "seller@email.com",
+      "password": "seller"
+    }
+  },
+  {
+    "3": {
+      "email": "manager@email.com",
+      "password": "manager"
+    }
+  }
+]

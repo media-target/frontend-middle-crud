@@ -1,0 +1,20 @@
+[
+  {
+    "1": {
+      "title": "Экшн Камеры",
+      "slug": "action-camera"
+    }
+  },
+  {
+    "2": {
+      "title": "Смартфоны",
+      "slug": "smartphone"
+    }
+  },
+  {
+    "3": {
+      "title": "Наушники",
+      "slug": "headphone"
+    }
+  }
+]
